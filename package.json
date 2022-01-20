@@ -1,0 +1,25 @@
+{
+  "name": "react-overlay-error-pop",
+  "version": "1.0.0",
+  "description": "A simple error overlay/pop up for server as well as normal errors in React",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alson33/react-overlay-error-pop.git"
+  },
+  "keywords": [
+    "react",
+    "react-error-overlay",
+    "error",
+    "error-overlay"
+  ],
+  "author": "Alson Garbuja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alson33/react-overlay-error-pop/issues"
+  },
+  "homepage": "https://github.com/Alson33/react-overlay-error-pop#readme"
+}
