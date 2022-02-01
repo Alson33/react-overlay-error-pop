@@ -1,3 +1,11 @@
+.pop-holder {
+    position: fixed;
+    top: 20px;
+    right: 0px; z-index: 1000;
+    padding: 10px;
+    max-width: calc(100vw - 20px);
+}
+
 .times-icon {
     font-size: 1.2rem;
     cursor: pointer;
