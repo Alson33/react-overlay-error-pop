@@ -4,7 +4,7 @@ import '../styles/normalpop.module.css';
 
 const NormalPop = (
     { message, type, delay }: 
-    { message: string, type: 'error'|'warning', delay?: number }
+    { message: String, type: 'error'|'warning', delay?: number }
   ) => {
 
   const normalpopRef: RefObject<HTMLDivElement> = useRef<HTMLDivElement>(null)
