@@ -1,0 +1,13 @@
+.normal-error--pop {
+    padding: 1em 2em;
+    border-radius: 0.25rem;
+    border: 1px solid transparent;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    position: fixed;
+    top: 20%;
+    right: 10%;
+}
